@@ -3,7 +3,7 @@
 
 * Executor Fixed
 * Console Fixed
-* Fixed Buttons
+* Text Box fixed
 
 ```lua
 loadstring(game:HttpGet("[https://seu-link.com](https://seu-link.com)"))()
