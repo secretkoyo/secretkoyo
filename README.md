@@ -6,4 +6,4 @@
 * Text Box fixed
 
 ```lua
-loadstring(game:HttpGet("[https://seu-link.com](https://seu-link.com)"))()
+loadstring(game:HttpGet("[https://raw.githubusercontent.com/secretkoyo/SSPanel/refs/heads/main/SSPanel.lua)"))()
