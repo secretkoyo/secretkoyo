@@ -1,4 +1,4 @@
-### SSPanel 1.5.0
+### SSPanel
 
 * Executor Fixed
 * Console Fixed
